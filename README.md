@@ -1,4 +1,4 @@
-# DIO-api-champions-league--node-ts-express
+# DIO-api-champions-league-node-ts-express
 
 <br />
 
